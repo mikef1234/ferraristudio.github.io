@@ -808,7 +808,7 @@
 /* Intro */
 
 	#intro {
-		background: url('images/overlay.png'), url('http://static1.squarespace.com/static/54b811bce4b095413a4d3b82/t/54e6d104e4b09706d49cd7fd/1424412957700/Keyboard-and-Coffee.jpg');
+		background: url('images/overlay.png'), url('url("images/overlay.png"), url("/images/intro2.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
