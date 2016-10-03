@@ -1,15 +1,5 @@
 
-This is Big Picture, a simple, single page responsive site template by HTML5 UP.
-Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
+Check out my portfolio, with various projects that I have worked on. Along with my projects, please take a look at my R
+Resume, and LinkedIn profile to have a better view of my background.
 
-	Other:
-		jQuery (jquery.com)
-		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		CSS3 PIE (css3pie.com)
-		background-size polyfill (github.com/louisremi)
-		Respond.js (j.mp/respondjs)
-		jquery.poptrox (n33.co)
-		jquery.scrolly (n33.co)
-		jquery.scrollgress (n33.co)
-		Skel (skel.io)
+Thanks!
