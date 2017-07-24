@@ -1165,8 +1165,7 @@ h1, h2, h3, h4, h5, h6 {
 .social-icon > ul > li > a {
     background-color: #26292e;
     display: block;
-    height: 70px;
-    width: 70px;
+   
 
 	-webkit-transform: rotateY(180deg);
 	   -moz-transform: rotateY(180deg);
