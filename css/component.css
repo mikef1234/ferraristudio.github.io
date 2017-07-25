@@ -132,11 +132,10 @@
 }
 
 .og-details a {
-	font-size: 16px;
-	color: #999;
-	text-transform: capitalize;
+	
+	
 	padding: 10px 20px;
-	border: 2px solid #999;
+	
 	display: inline-block;
 	margin: 30px 0 0;
 	outline: none;
